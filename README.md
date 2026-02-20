@@ -44,7 +44,6 @@ I'm always excited to connect with fellow developers, DevOps engineers, and clou
 
 - **[LinkedIn](https://www.linkedin.com/in/rajesh-p-645b31152/)** - Professional networking and discussions
 - **[GitHub](https://github.com/iam-raj)** - Code contributions and open source projects
-- **Email** - [rajesh.pendyala@example.com](mailto:rajesh.pendyala@example.com) *(Replace with actual email)*
 
 ## 📊 GitHub Stats
 
